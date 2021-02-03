@@ -73,5 +73,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ![alt text](https://github.com/nandinisahni/adventure-website/blob/master/Screenshot%20(376).png)
 ![alt text](https://github.com/nandinisahni/adventure-website/blob/master/Screenshot%20(377).png)
-![alt text]()
+![alt text](https://github.com/nandinisahni/adventure-website/blob/master/Screenshot%20(378).png)
 ![alt text]()
