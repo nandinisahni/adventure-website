@@ -1,3 +1,7 @@
+ADVENTURE WEBSITE
+This ia a basic front-end website for a traveller who can scroll through to find various adventures for his journey.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
